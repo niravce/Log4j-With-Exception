@@ -1,0 +1,25 @@
+21-07-31 04:22 DEBUG logapplication.Testapp[main] Its Debug 
+ 21-07-31 04:22 INFO logapplication.Testapp[main] its info 
+ 21-07-31 04:22 FATAL logapplication.Testapp[main] its fatul 
+ 21-07-31 04:22 ERROR logapplication.Testapp[main] its error 
+ 21-07-31 04:22 WARN logapplication.Testapp[main] its warrning 
+ 21-07-31 04:22 INFO logapplication.Testapp[main] its infoHi I am Java Developer 
+ 21-07-31 04:22 ERROR logapplication.Testapp[main] java.lang.ArithmeticException: / by zero 
+ 21-07-31 04:26 DEBUG logapplication.Testapp[main] Its Debug 
+ 21-07-31 04:26 INFO logapplication.Testapp[main] its info 
+ 21-07-31 04:26 FATAL logapplication.Testapp[main] its fatul 
+ 21-07-31 04:26 ERROR logapplication.Testapp[main] its error 
+ 21-07-31 04:26 WARN logapplication.Testapp[main] its warrning 
+ 21-07-31 04:26 INFO logapplication.Testapp[main] its infoHi I am Java Developer 
+ 21-07-31 04:28 DEBUG logapplication.Testapp[main] Its Debug 
+ 21-07-31 04:28 INFO logapplication.Testapp[main] its info 
+ 21-07-31 04:28 FATAL logapplication.Testapp[main] its fatul 
+ 21-07-31 04:28 ERROR logapplication.Testapp[main] its error 
+ 21-07-31 04:28 WARN logapplication.Testapp[main] its warrning 
+ 21-07-31 04:28 DEBUG logapplication.Testapp[main] Its Debug 
+ 21-07-31 04:28 INFO logapplication.Testapp[main] its info 
+ 21-07-31 04:28 FATAL logapplication.Testapp[main] its fatul 
+ 21-07-31 04:28 ERROR logapplication.Testapp[main] its error 
+ 21-07-31 04:28 WARN logapplication.Testapp[main] its warrning 
+ 21-07-31 04:28 INFO logapplication.Testapp[main] its info : Hi I am Java Developer 
+ 
